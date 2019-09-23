@@ -1,0 +1,36 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Cosmic history of the Universe\relax }}{2}{figure.caption.9}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces The formation of the 21 cm wavelength line by the process of spin flip transition where the hydrogen atom moves from one energy state to another\relax }}{3}{figure.caption.10}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Jansky's highly directive antenna arrays which he used to discover the cause of RFI that hindered the communication systems at Bell Telephone Laboratories \cite {book:BasicsofRA}\relax }}{5}{figure.caption.13}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Several LWA Telescopes in New Mexico (VLA site)\relax }}{6}{figure.caption.14}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces All 256 LWA Telescopes in New Mexico (VLA site) \cite {2012PASP..124.1090H}\relax }}{7}{figure.caption.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The ALBATROS-EGG pathfinder installed at the PRIZM site on Marion Island. The pathfinder comprises two dual-polarization antennas separated by roughly 110 m on an east-west baseline. Long coaxial cables connect the antennas to an orange shipping container that houses the readout electronics and serves as our "command module".\relax }}{9}{figure.caption.16}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Potential stations and a beam encouraging enough to implement ALBATROS experiment\relax }}{9}{figure.caption.17}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces ALBATROS - EGG pathfinder schematic which consists of the dual polarisation antennas, the 35 dB gain FEE, the 100 m coaxial cable which connects the FEE to the back end Faraday cage which comprises of the bias tee, HPF, LPF, amplifier, snap board and regulated voltage outputs which are powered by 12 VDC batteries.\relax }}{10}{figure.caption.18}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Proposed analog signal chain block diagram for the yet to be experiment, the ALBATROS\relax }}{11}{figure.caption.19}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Unenclosed FEE mounted on the ALBATROS-EGG antenna supporting structure.\relax }}{12}{figure.caption.20}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces One Polarisation Block Diagram of the FEE \cite {2012PASP..124.1090H}\relax }}{13}{figure.caption.21}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Solar Power System Rooftop Test Set Up Block Diagram\relax }}{17}{figure.caption.23}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Solar Panel and Weather Proof Electronics Enclosure\relax }}{17}{figure.caption.24}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Interior of the Weather Proof Enclosure\relax }}{18}{figure.caption.25}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Voltage Plot of the Whole Week\relax }}{19}{figure.caption.26}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Current Plot of the Whole Week\relax }}{20}{figure.caption.27}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Panel Voltage Plot of the Whole Week\relax }}{20}{figure.caption.28}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Panel Power Plot of the Whole Week\relax }}{21}{figure.caption.29}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Load Current Plot of the Whole Week\relax }}{21}{figure.caption.30}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Charger State of Operation Plot of the Whole Week\relax }}{22}{figure.caption.31}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces RFI Test Set Up Block Diagram\relax }}{23}{figure.caption.33}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces RFI Test Set Up\relax }}{24}{figure.caption.34}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces A Plot of Solar Regulator RFI at 125 MHz with the Antenna Inside the Box\relax }}{25}{figure.caption.35}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces A Plot of Solar Regulator RFI at 250 MHz with the Antenna Inside the Box\relax }}{25}{figure.caption.36}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces A Plot of RFI of Two States of the Solar Regulator at 450 MHz with the Antenna Inside the Box\relax }}{26}{figure.caption.37}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Enviroment RFI at 125 MHz\relax }}{26}{figure.caption.38}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Enviroment RFI at 250 MHz\relax }}{27}{figure.caption.39}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Overall System Levels for the Receiver\relax }}{28}{figure.caption.40}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Raw ALBATROS-EGG Autospectra\relax }}{29}{figure.caption.41}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces First Fringes from ALBATROS-EGG\relax }}{30}{figure.caption.42}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The comparison plot of S21 (gain) for the currently used amplifier and the proposed replacement amplifier.\relax }}{31}{figure.caption.43}
