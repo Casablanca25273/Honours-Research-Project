@@ -24,6 +24,23 @@
 \usepackage{gensymb}
 %\usepackage{lipsum}
 
+\newcommand{\ieee}{Institute of Electrical and Electronics Engineers}
+\newcommand{\aap}{Astronomy and Astrophysics}
+\newcommand{\aaps}{Astronomy and Astrophysics Supplements}
+\newcommand{\aj}{Astronomical Journal}
+\newcommand{\apj}{Astrophysical Journal}
+\newcommand{\jgr}{Journal of Geophysical Research}
+\newcommand{\mnras}{Monthly Notices of the Royal Astronomical Society}
+\newcommand{\nar}{New Astronomy Reviews}
+\newcommand{\pasa}{Publications of the Astronomical Society of Australia}
+\newcommand{\pasp}{Proceedings of the Astronomical Society of the Pacific}
+\newcommand{\prd}{Physical Review D}
+\newcommand{\prl}{Physical Review Letters}
+\newcommand{\araa}{Annual Review of Astronomy and Astrophysics}
+\newcommand{\apjl}{The Astrophysical Journal Letters}
+\newcommand{\jrasc}{Journal of the Royal Astronomical Society of Canada}
+
+
 \begin{document}
 	\begin{titlepage}
 		
@@ -259,7 +276,7 @@ The experiments which made the high resolution measurements are the  Dominion Ra
 		
 The Array of Long Baseline Antennas for Taking Radio Observations from the Sub-antarctic- Exploratory Gizmo on the Ground (ALBATROS-EGG) is a recently deployed two element inteferometer which is making exploratory measurements at a frequency range of \SI{1.2}{MHz}- \SI{81}{MHz} separated by a baseline of \SI{110}{m}. It was deployed in Marion Island in April 2018 as shown in \autoref{Fig:ALBATROS-EGG}. This experiment (ALBATROS-EGG) uses the LWA hardware.  The existing systems had to be optimised for better operational effeciency and effectiveness. Since this is an ongoing project, many other optimisation techniques are yet to be employed for the deployment in April 2019. \\
 
-The final project (ALBATROS) is aimed at consisting of autonomous antenna stations that will map the low frequency sky. Since these experiments are exploratory, they are taking steps towards achieving the future objective of probing the Dark Ages.The ALBATROS stations (huts) will be separated by baselines of \SI{\approx {20}}{km} as shown in \autoref{Fig:Marion}. Marion Island huts which are potential stations for the ALBATROS have a ring-like pattern which is appropriate for imaging and produces a FWHM synthesized beam of 8' at 5 MHz as shown in \autoref{Fig:10}. This beam is a natoable advancement over existing measurements to date.The ALBATROS main goal thus far will be to attempt to map high resolutions at low frequencies which crucial before moving in to the cosmology of measuring the dark ages. The two-element interferomentric pathfinder is not yet operating autonomously, it uses the direct cross correlation technique whereas the yet to be ALBATROS will write the lowest 10 - 20 MHz baseband to disk then gets correlated afterwards.\\
+The final project (ALBATROS) is aimed at consisting of autonomous antenna stations that will map the low frequency sky. Since these experiments are exploratory, they are taking steps towards achieving the future objective of probing the Dark Ages.The ALBATROS stations (huts) will be separated by baselines of \SI{\approx {20}}{km} as shown in \autoref{Fig:Marion}. Marion Island huts which are potential stations for the ALBATROS have a ring-like pattern which is appropriate for imaging and produces a FWHM synthesized beam of 8' at 5 MHz as shown in \autoref{Fig:10}. This beam is a notable advancement over existing measurements to date.The ALBATROS main goal thus far will be to attempt to map high resolutions at low frequencies which crucial before moving in to the cosmology of measuring the dark ages. The two-element interferomentric pathfinder is not yet operating autonomously, it uses the direct cross correlation technique whereas the yet to be ALBATROS will write the lowest 10 - 20 MHz baseband to disk then gets correlated afterwards.\\
 
 		\begin{figure}[!ht]
 			\begin{center}
@@ -287,7 +304,7 @@ The final project (ALBATROS) is aimed at consisting of autonomous antenna statio
 			\label{Fig:10}
 		\end{figure}
 		
-The ALBATROS-EGG schematic is shown in \autoref{Fig:ALBATROS-EGG Schematic}. The system uses the dually polarised dipole like antennas which are omidirectionally patterned. The front end electonics (FEE) are configured in a printed circuit board (PCB) which makes it easy for them to be mounted on the supporting structure of the antennas. The gain of the FEE is $\approx$35 dB and its noise figure (NF) ranges between $\approx$2.7 dB and 2.9 dB. From the FEE PCB, a coaxial cable sends the signal thnrough to the bias tee which extracts both the RF and the DC without any degradation. \newline The high pass and the low pass filter rejects the low frequency signals and high frequency signals respectively. The signal is then amplified by a $\approx$20 dB amplifier which then send the amplified signals to the Smart Network ADC Processor (SNAP) board which does the readouts and does a series of processing step. The raspberry pi interacts with the SNAP board for data storage.  This schematic is an illustration of what already exists in Marion Island for the two-element interferometric array. However, for the autonomous stations, the layout is going to be revised. 
+The ALBATROS-EGG schematic is shown in \autoref{Fig:ALBATROS-EGG Schematic}. The system uses the dual polarisation dipole like antennas which are omidirectionally patterned. The front end electonics (FEE) are configured in a printed circuit board (PCB) which makes it easy for them to be mounted on the supporting structure of the antennas. The gain of the FEE is $\approx$35 dB and its noise figure (NF) ranges between $\approx$2.7 dB and 2.9 dB. From the FEE PCB, a coaxial cable sends the signal through to the bias tee which extracts both the RF and the DC without any degradation. \newline The high pass and the low pass filter rejects the low frequency signals and high frequency signals respectively. The signal is then amplified by a $\approx$20 dB amplifier which then send the amplified signals to the Smart Network ADC Processor (SNAP) board which does the readouts and does a series of processing step. The raspberry pi interacts with the SNAP board for data storage.  This schematic is an illustration of what already exists in Marion Island for the two-element interferometric array. However, for the autonomous stations, the layout is going to be revised. 
 
  		
 		\begin{figure}[!ht]
